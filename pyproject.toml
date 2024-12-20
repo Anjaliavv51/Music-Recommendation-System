@@ -2,7 +2,7 @@
 name = "musiccollaborativefiltering"
 version = "0.1.0"
 description = ""
-authors = ["Valerio Velardo <velardovalerio@gmail.com>"]
+authors = ["lakshmi Pavananjali <plpanjali05@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
